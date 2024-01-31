@@ -1,0 +1,8 @@
+/* Add-on CSS for slider1 */
+.splide__track {
+    overflow: visible;
+}
+
+.splide__arrow:disabled {
+    opacity: 0.3;
+} ̰
