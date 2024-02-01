@@ -2,8 +2,8 @@
 function replaceTourIconElements() {
 	var jsonData = defineTourIcons();
 
-      // Iterate through elements with class "tour-icon-data"
-      $(".tour-icon-data").each(function() {
+      // Iterate through elements with class "data_tour-icon"
+      $(".data_tour-icon").each(function() {
         // Get the content of each element
         var iconData = $(this).text().trim();
 
