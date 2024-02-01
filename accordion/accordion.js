@@ -64,7 +64,7 @@ const accordion = (function () {
       ) {
         $this
           .closest(accordionElem)
-          .find(`> .${prefix.item}`)
+          .find(`.${prefix.item}`)
           .removeClass(activeClass)
           .find(accordionBody)
           .slideUp(accSettings.speed);
