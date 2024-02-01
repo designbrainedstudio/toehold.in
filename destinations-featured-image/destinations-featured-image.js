@@ -1,5 +1,5 @@
 // Function to replace the entire element based on its content
-function replaceDestinationFeaturedImage() {
+function replaceDestinationFeaturedImages() {
     // Iterate through elements with class "data_destination-featured-image"
     $(".data_destination-featured-image").each(function() {
       // Get the content of each element
