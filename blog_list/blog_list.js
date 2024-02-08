@@ -9,8 +9,3 @@ function replaceBlogListThumbnails() {
       $(this).replaceWith('<img src="' + imageData + '" class="blog_image">');
     });
 }
-
-function replaceHeroImage() {
-    var imageData = $(".data_blog-hero").text().trim();
-    $(".data_blog-hero").replaceWith('<img src="' + imageData + '" class="blog-post-header_image">');
-}
