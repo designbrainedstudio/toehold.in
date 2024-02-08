@@ -1,7 +1,7 @@
 // Function to replace the entire element based on its content
 function replaceItineraryHeroImage() {
-    // Iterate through elements with class "data_hero-image"
-    $(".data_hero-image").each(function() {
+    // Iterate through elements with class "data_itinerary-hero-image"
+    $(".data_itinerary-hero-image").each(function() {
       // Get the content of each element
       var imageData = $(this).text().trim();
       

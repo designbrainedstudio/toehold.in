@@ -14,7 +14,7 @@ function shareButtons() {
     $('[data-share-whatsapp').attr('target', '_blank');
 }
 
-function replaceHeroImage() {
+function replaceBlogPostHeroImage() {
     var imageData = $(".data_blog-hero").text().trim();
     $(".data_blog-hero").replaceWith('<img src="' + imageData + '" class="blog-post-header_image">');
 }
