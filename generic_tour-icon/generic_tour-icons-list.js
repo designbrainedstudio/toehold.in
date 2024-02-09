@@ -1,6 +1,6 @@
 function defineTourIcons() {
 	return [
-    { "tourIconName": "Bear", "tourIconFile": "https://d22eux7aqicogj.cloudfront.net/assets/tour-icons/icon-tour-lion-african-min.png" },
+    { "tourIconName": "Bear", "tourIconFile": "https://d22eux7aqicogj.cloudfront.net/assets/tour-icons/icon-tour-bear-min.png" },
     { "tourIconName": "Cambodia", "tourIconFile": "https://d22eux7aqicogj.cloudfront.net/assets/tour-icons/icon-tour-cambodia-min.png" },
     { "tourIconName": "Camel", "tourIconFile": "https://d22eux7aqicogj.cloudfront.net/assets/tour-icons/icon-tour-camel-min.png" },
     { "tourIconName": "Cheetah", "tourIconFile": "https://d22eux7aqicogj.cloudfront.net/assets/tour-icons/icon-tour-cheetah-min.png" },
