@@ -1,5 +1,9 @@
 // Generic - All Pages
-// BODY - designbrainedstudio/toehold.in@v0.0.25/generic_toehold/generic_toehold.js
+// BODY - designbrainedstudio/toehold.in@v0.0.28/generic_toehold/generic_toehold.js
+
+// Generic Quick Links Menu
+// BODY - designbrainedstudio/toehold.in@v0.0.28/generic_quicklinksmenu.js
+// BODY - initializeQuickLinksMenu();
 
 // Home - Home Page
 // BODY - designbrainedstudio/toehold.in@v0.0.25/home/home.js
