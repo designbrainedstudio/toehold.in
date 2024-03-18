@@ -2,7 +2,7 @@
   DESTINATION THUMBNAILS
   ********************************************************************************************* */
 // Function to replace the entire element based on its content
-function replacereplaceDestinationThumbnails() {
+function replaceDestinationThumbnails() {
     // Iterate through elements with class "data_destination-thumbnail"
     $(".data_destination-thumbnail").each(function() {
       // Get the content of each element
