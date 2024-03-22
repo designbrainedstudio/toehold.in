@@ -6,7 +6,8 @@
 // BODY - initializeQuickLinksMenu();
 
 // Featured List - Photo Tours and Destinations
-// BODY - designbrainedstudio/toehold.in@v0.0.29/generic_featured-list/generic_featured-list.js
+// HEAD - designbrainedstudio/toehold.in@v0.0.31/generic_featured-list/generic_slick-styles.css
+// BODY - designbrainedstudio/toehold.in@v0.0.31/generic_featured-list/generic_featured-list.js
 // READY - replaceFeaturedCardHeroImages();
 // READY - initializeFeaturedList();
 
