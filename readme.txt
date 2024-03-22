@@ -5,6 +5,11 @@
 // BODY - designbrainedstudio/toehold.in@v0.0.28/generic_quicklinksmenu.js
 // BODY - initializeQuickLinksMenu();
 
+// Featured List - Photo Tours and Destinations
+// BODY - designbrainedstudio/toehold.in@v0.0.29/generic_featured-list/generic_featured-list.js
+// READY - replaceFeaturedCardHeroImages();
+// READY - initializeFeaturedList();
+
 // Home - Home Page
 // BODY - designbrainedstudio/toehold.in@v0.0.25/home/home.js
 // BODY - replacereplaceDestinationThumbnails();
@@ -14,7 +19,7 @@
 // BODY - designbrainedstudio/toehold.in@v0.0.20/generic_accordion/generic_accordion.js
 // READY - accordion.init(accSettings);
 
-// Generic - Hero Image (Photo Tour Single & Destination Single)
+// Generic - Hero Image (Photo Tour Single)
 // BODY - designbrainedstudio/toehold.in@v0.0.20/generic_hero-image/generic_hero-image.js
 // READY - replaceHeroImage();
 
@@ -37,11 +42,6 @@
 // Destinations Listing Page
 // BODY - designbrainedstudio/toehold.in@v0.0.20/destinations-list/destinations-list.js
 // READY - replaceDestinationFeaturedImages();
-
-// Photo Tours Listing Page
-// HEAD - designbrainedstudio/toehold.in@v0.0.20/phototours-list/phototours-list.css
-// BODY - designbrainedstudio/toehold.in@v0.0.20/phototours-list/phototours-list.js
-// READY - replaceFeaturedCardHeroImages();
 
 // Photo Tour Single
 // BODY - designbrainedstudio/toehold.in@v0.0.20/phototour-single/phototour-single.js
