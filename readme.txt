@@ -41,8 +41,8 @@
 // READY - replaceRelatedBlogThumbnails();
 
 // Destinations Listing Page
-// BODY - designbrainedstudio/toehold.in@v0.0.20/destinations-list/destinations-list.js
-// READY - replaceDestinationFeaturedImages();
+// BODY - designbrainedstudio/toehold.in@v0.0.32/destinations-list/destinations-list.js
+// READY - replaceDestinationThumbnails();
 
 // Photo Tour Single
 // BODY - designbrainedstudio/toehold.in@v0.0.20/phototour-single/phototour-single.js
