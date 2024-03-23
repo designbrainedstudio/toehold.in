@@ -11,10 +11,6 @@
 // READY - replaceFeaturedCardHeroImages();
 // READY - initializeFeaturedList();
 
-// Home - Home Page
-// BODY - designbrainedstudio/toehold.in@v0.0.25/home/home.js
-// BODY - replacereplaceDestinationThumbnails();
-
 // Generic - Accordion
 // HEAD - designbrainedstudio/toehold.in@v0.0.20/generic_accordion/generic_accordion.css
 // BODY - designbrainedstudio/toehold.in@v0.0.20/generic_accordion/generic_accordion.js
