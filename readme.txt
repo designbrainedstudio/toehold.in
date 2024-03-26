@@ -17,6 +17,7 @@
 // READY - accordion.init(accSettings);
 
 // Generic - Hero Image (Photo Tour Single)
+// HEAD - designbrainedstudio/toehold.in@v0.0.34/generic_hero-image/generic_hero-video-lateload.js
 // BODY - designbrainedstudio/toehold.in@v0.0.20/generic_hero-image/generic_hero-image.js
 // READY - replaceHeroImage();
 
