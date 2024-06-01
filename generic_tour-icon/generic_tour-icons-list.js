@@ -28,6 +28,6 @@ function defineTourIcons() {
     { "tourIconName": "Snow Leopard", "tourIconFile": "https://d22eux7aqicogj.cloudfront.net/assets/tour-icons/icon-tour-snow-leopard-min.png" },
     { "tourIconName": "Hampi", "tourIconFile": "https://d22eux7aqicogj.cloudfront.net/assets/tour-icons/icon-tour-temple-hampi-min.png" },
     { "tourIconName": "Tiger", "tourIconFile": "https://d22eux7aqicogj.cloudfront.net/assets/tour-icons/icon-tour-tiger-min.png" },
-    { "tourIconName": "Wild Ass", "tourIconFile": "https://d22eux7aqicogj.cloudfront.net/assets/tour-icons/icon-tour-wild-ass-min.png" },
+    { "tourIconName": "Wild Ass", "tourIconFile": "https://d22eux7aqicogj.cloudfront.net/assets/tour-icons/icon-tour-wild-ass-min.png" }
   ];
 }
