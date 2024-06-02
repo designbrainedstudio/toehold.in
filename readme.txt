@@ -6,8 +6,8 @@
 // BODY - initializeQuickLinksMenu();
 
 // Generic - Form Country Code
-// HEAD - designbrainedstudio/toehold.in@v0.0.36/generic_form-country-code/generic_form-country-code.css
-// BODY - designbrainedstudio/toehold.in@v0.0.36/generic_form-country-code/generic_form-country-code.js
+// HEAD - designbrainedstudio/toehold.in@v0.0.35/generic_form-country-code/generic_form-country-code.css
+// BODY - designbrainedstudio/toehold.in@v0.0.35/generic_form-country-code/generic_form-country-code.js
 
 // Featured List - Photo Tours and Destinations
 // HEAD - designbrainedstudio/toehold.in@v0.0.31/generic_featured-list/generic_slick-styles.css
