@@ -3,7 +3,8 @@ var input = $("#Phone");
 input.intlTelInput({
 utilsScript:
     "https://cdn.jsdelivr.net/npm/intl-tel-input@18.1.1/build/js/utils.js",
-separateDialCode: true
+separateDialCode: true,
+initialCountry: "in"
 });
 
 input.on("change", function () {
