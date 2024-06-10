@@ -28,8 +28,8 @@ function initializeFeaturedList() {
     swipeToSlide: true,
     autoplay: true,
     autoplaySpeed: 2000,
-    nextArrow: $(".slider_testimonials_arrow-right"),
-    prevArrow: $(".slider_testimonials_arrow-left"),
+    nextArrow: $(".slider_arrow-right"),
+    prevArrow: $(".slider_arrow-left"),
     responsive: [
       {
         breakpoint: 1024,

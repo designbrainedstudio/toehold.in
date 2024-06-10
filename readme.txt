@@ -9,9 +9,14 @@
 // HEAD - designbrainedstudio/toehold.in@v0.0.35/generic_form-country-code/generic_form-country-code.css
 // BODY - designbrainedstudio/toehold.in@v0.0.35/generic_form-country-code/generic_form-country-code.js
 
+// Generic - Testimonials List
+// HEAD - designbrainedstudio/toehold.in@v0.0.36/generic_testimonials-list/generic_testimonials-list.css
+// BODY - designbrainedstudio/toehold.in@v0.0.36/generic_testimonials-list/generic_testimonials-list.js
+// READY - initializeTestimonialsList();
+
 // Featured List - Photo Tours and Destinations
-// HEAD - designbrainedstudio/toehold.in@v0.0.31/generic_featured-list/generic_slick-styles.css
-// BODY - designbrainedstudio/toehold.in@v0.0.31/generic_featured-list/generic_featured-list.js
+// HEAD - designbrainedstudio/toehold.in@v0.0.36/generic_featured-list/generic_slick-styles.css
+// BODY - designbrainedstudio/toehold.in@v0.0.36/generic_featured-list/generic_featured-list.js
 // READY - replaceFeaturedCardHeroImages();
 // READY - initializeFeaturedList();
 
